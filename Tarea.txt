@@ -1,0 +1,14 @@
+Este archivo fue creado como parte del TP de Git y GitHub.
+
+Objetivo:
+- Practicar la creación de repositorios locales y remotos.
+- Subir cambios al repositorio en GitHub.
+- Permitir que otra persona modifique este archivo para simular trabajo colaborativo.
+
+Instrucciones:
+1. Agrega tu nombre en la lista de integrantes.
+2. Escribe un comentario corto (puede ser un saludo, una nota, una idea o lo que quieras).
+
+Integrantes:
+- Juan Pablo Schiappacasse
+- (Agregar aquí el resto de los nombres)
