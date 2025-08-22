@@ -1,4 +1,7 @@
+HEAD
 Este archivo fue -modificado una vez- como parte del TP de Git y GitHub.
+Este archivo fue *modificado para crear un problema basico* como parte del TP de Git y GitHub.
+36da6674e8ab7250137fcbf38c9bc752b2d7fad0
 
 Objetivo:
 - Practicar la creación de repositorios locales y remotos.
@@ -12,4 +15,5 @@ Instrucciones:
 Integrantes:
 - Juan Pablo Schiappacasse
 - Mónica Garzón
+-Belen Nolasco
 - (Agregar aquí el resto de los nombres)
