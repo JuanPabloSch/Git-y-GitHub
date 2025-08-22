@@ -1,4 +1,4 @@
-Este archivo fue creado como parte del TP de Git y GitHub.
+Este archivo fue -modificado una vez- como parte del TP de Git y GitHub.
 
 Objetivo:
 - Practicar la creación de repositorios locales y remotos.
